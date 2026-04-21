@@ -89,7 +89,7 @@ CloudWatch was configured using the wrong threshold. Instead of calculating the 
 
 ---
 
-## Success!
+## Done
 
 To validate that our monitoring system can detect and alert when my secret is accessed, I checked my secret's value one more time. I received an email within 2 minutes of the event. Our alarm in CloudWatch is in an "alarm" state as well. 
 
