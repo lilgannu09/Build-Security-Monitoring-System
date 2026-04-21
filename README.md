@@ -1,8 +1,4 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
-
 # Build a Security Monitoring System
-
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-security-monitoring)
 
 **Author:** Ganesh Mahankali  
 **Email:** ganeshmahankali9@gmail.com
@@ -13,9 +9,9 @@
 
 ---
 
-## Introducing Today's Project!
+## Introducing Today's Project
 
-In this project, I will demonstrate... I'm doing this project to learn how to use AWS Cloud Trail, SNS, and CloudWatch. Attempting to use these tools to learn how AWS Security tools work, which sends us emails as alerts.
+I'm doing this project to learn how to use AWS Cloud Trail, SNS, and CloudWatch. Attempting to use these tools to learn how AWS Security tools work, which sends us emails as alerts.
 
 ### Tools and concepts
 
